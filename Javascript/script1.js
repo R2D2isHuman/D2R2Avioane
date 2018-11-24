@@ -14,5 +14,25 @@ let table={
 }
 
 for(let i = 0;i<=10;i++)
-    table['A'+'i'] = document.querySelector('#A'+i);
+    table['A'+i] = document.querySelector('#A'+i);
+for(let i = 0;i<=10;i++)
+    table['B'+i] = document.querySelector('#A'+i);
+for(let i = 0;i<=10;i++)
+    table['C'+i] = document.querySelector('#A'+i);
+for(let i = 0;i<=10;i++)
+    table['D'+i] = document.querySelector('#A'+i);
+for(let i = 0;i<=10;i++)
+    table['E'+i] = document.querySelector('#A'+i);
+for(let i = 0;i<=10;i++)
+    table['F'+i] = document.querySelector('#A'+i);
+for(let i = 0;i<=10;i++)
+    table['G'+i] = document.querySelector('#A'+i);
+for(let i = 0;i<=10;i++)
+    table['H'+i] = document.querySelector('#A'+i);
+for(let i = 0;i<=10;i++)
+    table['I'+i] = document.querySelector('#A'+i);
+for(let i = 0;i<=10;i++)
+    table['J'+i] = document.querySelector('#A'+i);
+
+
 
